@@ -1,7 +1,7 @@
 /*
 
 COPYRIGHT:   All rights copyright to creator of this script. Using this script without a permission is high forbidden.
-CREATOR:     Staff MWF
+CREATOR:     By ID: 5266523 / @Freyr
 FOR:         https://plug.dj/mwf
 
 */
@@ -10,12 +10,12 @@ var bot = {
   creator: 5266523,
   accountID: API.getUser().id,
   status: false,
-  name: "Botxx",
+  name: "Brain | BOT",
   version: "1.9.6",
   room: "https://plug.dj/mwf",
   cmdprefix: "!",
   commands: null,
-  discord: "https://discord.gg/JxNpJrs",
+  discord: "https://discordapp.com/invite/JxNpJrs",
   facebook: null,
   rules: null,
   web: null,
