@@ -37,7 +37,7 @@ var bot = {
       "rules": "@%NAME% Link to our rules: %RULES%.",
       "skipped": "@%NAME% You skipped a song.",
       "songstuck": "Song is stuck, im skipping.",
-      "welcome": "Welcome @%NAME% to the community Music witch friends . We are glad you came among us :heartpulse: and you came to listen only to music.",
+      "welcome": "Welcome @%NAME% to the community Music witch friends! Please respect the rules and play the right songs! Have fun!",
       "welcomeback": "Welcome back @%NAME%. :heart:",
       "web": "@%NAME% Our website link: %WEB%.",
       "userafk": "User @%NAME% is AFK.",
